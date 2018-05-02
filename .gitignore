@@ -1,0 +1,23 @@
+# macOS
+#
+.DS_Store
+
+# node.js
+#
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# compiled files
+#
+/.cache
+/dist
+
+# editors
+#
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln

@@ -1,0 +1,9 @@
+{
+  "name": "react-ts-demo-workflow",
+  "version": "0.0.0",
+  "description": "A workflow for build a quick prototype by using TypeScript",
+  "repository": "https://github.com/foisonocean/react-ts-demo-workflow.git",
+  "author": "hronro <hronro@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
